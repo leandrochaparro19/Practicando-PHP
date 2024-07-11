@@ -83,4 +83,39 @@ echo "La suma: ".$num1." + ".$num2." = ".$suma;
 // realizando un incremento de una variable y decremento de la misma. Deberá ir mostrando los
 // resultados de cada operación en pantalla y también deberá documentar cada operación.
 
+
+// 10) – Escriba un script PHP que utilice los operadores lógicos del lenguaje, realizando un
+// comparativas del operador and (&&), or (||), xor y not (!) definiendo e inicializando dos variables
+// para llevar a cabo las operaciones antes mencionadas. Deberá ir mostrando los resultados de
+// cada operación en pantalla y también deberá documentar cada operación.
+
+// 11) – Realice un script PHP que utilice la construcción if para determinar en que estación
+// (verano, otoño, invierno y primavera) del año estamos de acuerdo al número de mes que se va a
+// definir e inicializar una variable de nombre mes para llevar a cabo las operaciones de
+// comparación. Deberá ir mostrando los resultados de cada operación en pantalla y también deberá
+// documentar cada operación.
+
+// 12) – Escriba un nuevo script PHP que realice la misma tarea del punto anterior pero
+// utilizando la construcción if – elseif. Deberá ir mostrando los resultados de cada operación en
+// pantalla y también deberá documentar cada operación.
+
+// 13) – Realice un nuevo script PHP que permita determinar el día de la semana utilizando la
+// estructura switch para tal fin, deberá declarar e inicializar una variable de tipo entera para guardar
+// el número de día de la semana que comienza con el día Domingo y termina con el día Sábado
+// (Domingo = 0, Lunes = 1, Martes = 2, etc.). Deberá ir mostrando los resultados de cada operación
+// en pantalla y también deberá documentar cada operación.
+
+// 14) – Realice un nuevo script PHP que recorra números del 1 al 100 y que calcule el doble
+// de cada uno de ellos. Utilice la sentencia while para recorrer los mismos. Deberá ir mostrando los
+// resultados de cada operación en pantalla y también deberá documentar cada operación.
+
+// 15) – Escriba un nuevo script PHP que realice la misma tarea del punto anterior pero que
+// utilice la sentencia do .. while para recorrer los mismos. Deberá ir mostrando los resultados de
+// cada operación en pantalla y también deberá documentar cada operación.
+
+// 16) – Para terminar con la práctica de esta clase realice un nuevo script PHP que recorra
+// números del 1 al 100 y que calcule el cuadrado de cada uno de ellos. Utilice la sentencia for para
+// recorrer los mismos. Deberá ir mostrando los resultados de cada operación en pantalla y también
+// deberá documentar cada operación.
+
 ?>
